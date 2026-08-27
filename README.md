@@ -16,6 +16,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-@jao.omedeiros-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/joao-medeiros-al/">
     <img src=" https://img.shields.io/badge/Linkedin-joao_medeiros_al-blue?style=for-the-badge" />
   </a>
